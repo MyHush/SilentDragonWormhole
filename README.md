@@ -1,2 +1,4 @@
-# zqwwormhole
-Wormhole Service for Zec Qt Wallet
+# Silent Dragon Wormhole
+
+Wormhole Service for SilentDragon mobile app
+
