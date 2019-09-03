@@ -1,4 +1,4 @@
-package com.zecqtwallet.wormhole
+package com.silentdragon.wormhole
 
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser
