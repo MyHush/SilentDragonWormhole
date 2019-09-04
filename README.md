@@ -1,6 +1,7 @@
 # Silent Dragon Wormhole
 
-Wormhole Service for SilentDragon mobile app
+Wormhole Service for SilentDragon mobile app at wormhole.myhush.org
+
 
 # Compiling From Source
 
