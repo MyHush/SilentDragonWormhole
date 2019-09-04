@@ -8,7 +8,7 @@ Wormhole Service for SilentDragon mobile app at wormhole.myhush.org
 
 Install dependencies:
 
-    sudo apt-get install gradle
+    sudo apt-get install android-sdk gradle
 
 Your system may have a version of gradle that is too old. Gradle 5.6.1 is known
 to work well:
