@@ -2,7 +2,6 @@
 
 Wormhole Service for SilentDragon mobile app at wormhole.myhush.org
 
-
 # Compiling From Source
 
 
@@ -22,3 +21,18 @@ Clone and compile:
     git clone https://github.com/MyHush/SilentDragonWormhole
     cd SilentDragonWormhole
     gradle build
+
+# Running the Wormhole
+
+If the build was successful, you can execute the binary and start the server:
+
+    java -jar build/libs/wormhole-1.0-SNAPSHOT.jar
+
+# License
+
+MIT
+
+# Authors
+
+Hush Core developers
+Zecwallet developers
