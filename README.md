@@ -4,7 +4,6 @@ Wormhole Service for SilentDragon mobile app at wormhole.myhush.org
 
 # Compiling From Source
 
-
 Install dependencies:
 
     sudo apt-get install android-sdk gradle
@@ -27,6 +26,8 @@ Clone and compile:
 If the build was successful, you can execute the binary and start the server:
 
     java -jar build/libs/wormhole-1.0-SNAPSHOT.jar
+
+Note: The default port of the Wormhole is 7070. This can be changed in source and recompiled if needed.
 
 # License
 
